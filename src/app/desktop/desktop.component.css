@@ -1,0 +1,34 @@
+.container {
+  display: flex;
+}
+
+.sidebar {
+  width: 20%;
+  background-color: #f0f0f0;
+  padding: 10px;
+}
+
+.file-explorer {
+  width: 80%;
+  padding: 10px;
+}
+
+.p-tree {
+  margin-bottom: 20px;
+}
+
+.col-name {
+  width: 30%;
+}
+
+.col-type {
+  width: 20%;
+}
+
+.col-size {
+  width: 25%;
+}
+
+.col-date {
+  width: 25%;
+}
